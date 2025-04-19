@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mrsolodev450/mrsolodev450/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/mrsolodev450/mrsolodev450/output/snake.svg" alt="Snake animation" />
 
 ###
