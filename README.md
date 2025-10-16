@@ -23,17 +23,30 @@
 </div>
 
 ## Where To Find Me:
-<p><a target="_blank" href="https://x.com/knightwor_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/knightwor" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/knightwor_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@mr.solodev" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<div align="left">
+  <a href="https://youtube.com/@mr.solodev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/knightwor_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/knightwor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/knightwor_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/cxz8WaARkn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=knightwor&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/ -->
 ![](https://github-readme-stats.vercel.app/api?username=knightwor&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ###
 
-<img src="https://raw.githubusercontent.com/knightwor/knightwor/output/snake.svg" alt="Snake animation" />
+<!-- img src="https://raw.githubusercontent.com/knightwor/knightwor/output/snake.svg" alt="Snake animation" / -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
