@@ -1,28 +1,45 @@
+```js
+// ─── knightwor@github:~$ whoami ────────────────────────────────────────
+// Frontend Web & Android Developer
+// Passionate coder who loves building cool stuff with code
+// Exploring JS, TS, and Next.js every single day
 
+const root = {
+  name: "Krishna",
+  role: "Frontend Web & Android Developer",
+  about: "Passionate coder who loves building cool stuff with code.",
+  skills: [
+    "JavaScript",
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Java",
+    "CSS",
+    "Python",
+    "Git",
+    "Linux",
+  ],
+  status: "Coding > Sleeping",
+  quote: "Talk is cheap. Show me the code. — Linus Torvalds",
+};
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
+console.log(`Hello World 👋, I'm ${root.name}!`);
+```
+```js
+// ─── Connect With Me ────────────────────────────────────────────────
 
+const socials = {
+  github: "https://github.com/knightwor",
+  linkedin: "https://linkedin.com/in/knightwor",
+  instagram: "https://www.instagram.com/knightwor_/",
+  youtube: "https://www.youtube.com/@mr.solodev",
+};
 
+Object.entries(socials).forEach(([key, value]) =>
+  console.log(`${key.toUpperCase()}: ${value}`)
+);
 
+// Last login: Today
+// Status: npm run code
 
-
+process.exit(0);
