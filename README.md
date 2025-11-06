@@ -19,27 +19,13 @@ const root = {
     "Git",
     "Linux",
   ],
+  github: "https://github.com/knightwor",
+  linkedin: "https://linkedin.com/in/knightwor",
+  instagram: "https://www.instagram.com/knightwor_/",
+  youtube: "https://www.youtube.com/@mr.solodev",
   status: "Coding > Sleeping",
   quote: "Talk is cheap. Show me the code. — Linus Torvalds",
 };
 
 console.log(`Hello World 👋, I'm ${root.name}!`);
-```
-```js
-// ─── Connect With Me ────────────────────────────────────────────────
-
-const socials = {
-  github: "https://github.com/knightwor",
-  linkedin: "https://linkedin.com/in/knightwor",
-  instagram: "https://www.instagram.com/knightwor_/",
-  youtube: "https://www.youtube.com/@mr.solodev",
-};
-
-Object.entries(socials).forEach(([key, value]) =>
-  console.log(`${key.toUpperCase()}: ${value}`)
-);
-
-// Last login: Today
-// Status: npm run code
-
 process.exit(0);
