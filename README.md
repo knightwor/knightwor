@@ -25,18 +25,6 @@ Here are the technologies I work with:
 
 ---
 
-## 📊 My GitHub Stats
-
-These stats automatically update based on my activity.
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=knightwor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Krishna's GitHub Stats" />
-   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 You can find me on:
