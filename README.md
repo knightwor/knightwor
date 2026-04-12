@@ -3,7 +3,7 @@
 
 ## 🧢 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,java,javascript,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,github,nextjs,javascript,typescript,css" />
 </p>
 
 ## ⚡ About Me
