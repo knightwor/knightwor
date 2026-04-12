@@ -1,6 +1,29 @@
+<h1>Hey 👋, I'm Krishna</h1>
+---
 
-> **Status:** Coding \> Sleeping
+## 🧢 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,java,javascript,css,git" />
+</p>
 
-> Next.js + Java + JavaScript + CSS + Git
+## ⚡ About Me
+- 🚀 Building cool stuff with **Next.js & Java**
+- 🧩 Into coding edits, Linux & dev content
+- 💀 Like problems
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+## 🧿 Quote
+<p >
+  <i>"Talk is cheap. Show me the code."</i>  
+      <br/>— Linus Torvalds
+</p>
+
+---
+
+## 🌀 Current Vibe
+```bash
+while(alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
