@@ -17,8 +17,6 @@
       <br/>— Linus Torvalds
 </p>
 
----
-
 ## 🌀 Current Vibe
 ```bash
 while(alive) {
